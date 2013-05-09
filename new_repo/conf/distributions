@@ -1,0 +1,8 @@
+Origin: Athir Nuaimi
+Label: my Ubuntu packages
+Suite: main
+Codename: precise
+Architectures: i386 amd64 source
+Components: main 
+Description: packages that I have built
+SignWith: My-Key-ID
